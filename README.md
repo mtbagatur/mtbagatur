@@ -10,6 +10,7 @@ DevOps & MLOps engineer based in Bursa, Turkey. I build and operate delivery pip
 | [devops-mlops-labs](https://github.com/mtbagatur/devops-mlops-labs) | Incident-style labs: broken `kind` clusters, Helm charts and pipelines, with my investigation, fix and review for each |
 | [vehicle-sentiment-mlops](https://github.com/mtbagatur/vehicle-sentiment-mlops) | FastAPI service with an ML model, MLflow tracking, Prometheus/Grafana monitoring, CI/CD to GHCR |
 | [platform-lab](https://github.com/mtbagatur/platform-lab) | Git SHA–tagged images on GHCR deployed to Kubernetes with Terraform, rollout troubleshooting |
+| [devops-cheatsheet](https://mtbagatur.github.io/devops-cheatsheet/) | Searchable, copy-ready command reference and incident runbooks across 40+ tools |
 
 ## Toolbox
 `Kubernetes` · `Helm` · `Azure DevOps` · `GitHub Actions` · `Terraform` · `Docker` · `Linux` · `Python` · `FastAPI` · `MLflow` · `Prometheus` · `Grafana`
