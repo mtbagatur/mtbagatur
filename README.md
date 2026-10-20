@@ -19,4 +19,4 @@ DevOps & MLOps engineer based in Bursa, Turkey. I build and operate delivery pip
 - [Building a Production-Ready MLOps System from Scratch](https://medium.com/@mtbagatur/building-a-production-ready-mlops-system-from-scratch-4d91f75be673)
 
 ## Find me
-[LinkedIn](https://www.linkedin.com/in/mtbagatur) · [Medium](https://medium.com/@mtbagatur) · [X](https://x.com/thebagatur)
+[LinkedIn](https://www.linkedin.com/in/mtbagatur) · [Medium](https://medium.com/@mtbagatur) · [X](https://x.com/mtbagatur)
